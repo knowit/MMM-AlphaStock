@@ -103,7 +103,7 @@ Module.register("MMM-AlphaStock", {
 					},
 					layout: {
 						padding: {
-							right: 80,
+							right: 90,
 						},
 					},
 					legend: {
